@@ -1,8 +1,10 @@
 ITC Hotels Dashboard Project
+
 Project Overview
 This Power BI project provides a comprehensive dashboard to analyze the financial performance, occupancy trends, room category insights, and cancellations for ITC Hotels. The dashboard aims to answer critical business questions and offers actionable insights for decision-makers to improve hotel performance and maximize revenue.
 
 Key Problem Areas Addressed
+
 Page 1: Financial Overview & Revenue Performance
 Key Questions:
 
@@ -28,6 +30,7 @@ How does occupancy correlate with revenue and RevPAR?
 KPIs and Metrics:
 
 Occupancy Rate
+
 Page 3: Room Category Performance & Booking Insights
 Key Questions:
 
@@ -40,6 +43,7 @@ KPIs and Metrics:
 Average Length of Stay (ALOS)
 Booking Lead Time
 Room Revenue Trends
+
 Page 4: Cancellations & Lost Revenue Analysis
 Key Questions:
 
@@ -57,7 +61,7 @@ Technologies Used
 Power BI for dashboard development
 DAX Query for data preprocessing and KPI calculations
 How to Use
-Clone the Repository:
+Clone the Repository
 git clone https://github.com/Krishna2001sahani/ITC_Hotels_dashboard
 Open the Power BI File:
 Navigate to the project directory and open the .pbix file in Power BI Desktop.
